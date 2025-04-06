@@ -63,18 +63,3 @@ graph TD
     H -->|172.60.20.30 - 172.60.20.29| I[RDF-2]
 ```
 
-## 📂 File Structure
-```
-/Network_Configs/
-├── Routers/
-│   ├── RD.txt
-│   ├── RDF-1.txt
-│   └── RDF-2.txt
-└── Switches/
-    ├── SWD-1.txt
-    ├── SWD-2.txt
-    ├── SWF-1.txt
-    ├── SWF-2.txt
-    ├── SWF2-1.txt
-    └── SWF2-2.txt
-```
