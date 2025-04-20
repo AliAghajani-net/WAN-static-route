@@ -8,7 +8,8 @@ Complete configuration of enterprise network with 9 Cisco devices including
 Complete configuration of enterprise network with 11 Cisco devices including:
 - 3 Cisco 2901 routers
 - 6 Catalyst 2960 switches
-
+- user swithces/routers : admin
+- Password swithces/routers : P@ssw0rd
 ## 🏷 Device Specifications (Updated)
 
 ### Routers
